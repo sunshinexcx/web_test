@@ -1,0 +1,40 @@
+#header{
+	
+	background- color:orange;
+	width:100%;
+	height:100px;
+	float:left;
+}
+#text1{
+	background-color:gray;
+	width:50px;
+	height:50px;
+	/* margin:20px 700px; 	 */
+	margin:auto;
+	margin-top:20px;
+}
+#menu{
+	background-color:azure;
+	width:300px;
+	height:500px;
+	float:left;
+}
+#text2{
+	background-color:red;
+	width:50px;
+	height:50px;
+	/* margin:250px 100px; */
+	margin:auto;
+	margin-top:250px;
+}
+#content{
+	background-color:purple;
+	width:600px;
+	height:500px;
+	float:left;
+}
+#text3{
+	background-color：yellow;
+	width:50px;
+	height:50px;
+}
